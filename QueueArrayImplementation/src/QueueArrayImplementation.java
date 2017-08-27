@@ -53,6 +53,7 @@ public class QueueArrayImplementation {
 				System.out.println(queueArray[front-1]+" removed from queue");
 			}
 			System.out.println(queueArray[front-1]+" removed from queue");
+			currentSize--;
 		}
 	}
 	
